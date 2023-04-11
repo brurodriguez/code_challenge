@@ -1,18 +1,18 @@
-Code_Challenge
+# Code_Challenge
 Criando uma API REST com funções relacionadas ao gerenciamento de Contas Bancárias.
 
 Para ansioso, importante ter instalado as seguintes ferramentas: Git, Python 3.9.
 
 Incluindo um bom editor para conseguir trabalhar o código, assim como o Visual Code ou Pycharm.
 
-EXECUTANDO O PROJETO
-# Clone este repositório
+# EXECUTANDO O PROJETO
+Clone este repositório
 
 $ git clone https://github.com/baraujorodriguez/code_challenge
 
 Abra o projeto no editor de preferência
 
-# Executa uma aplicação
+Executa uma aplicação
 
 Executar uma API em api.py
 
@@ -22,10 +22,10 @@ Após isso, prossiga com seu CPF para verificação de cadastro.
 
 Feito o login, poderá ser usado o aplicativo para funções que simulam ações feitas em uma conta bancária.
 
-TECNOLOGIAS
+# TECNOLOGIAS
 Ferramentas usadas no projeto:
 
 Python 3.9;
 SQLite3;
-autor
+# Autor
 Desenvolvido por: Bruno Rodriguez
